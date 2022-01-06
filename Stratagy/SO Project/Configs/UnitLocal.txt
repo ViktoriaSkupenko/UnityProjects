@@ -1,0 +1,16 @@
+{
+  "Id_Land": {
+    "DescriptionKnight1": {
+      "Lang_Text": {
+        "RU": "Просто описание первого рыцаря",
+        "ENG": "Just description first khigt"
+      }
+    },
+    "NameKnight1": {
+      "Lang_Text": {
+        "RU": "Просто имя первого рыцаря",
+        "ENG": "just name first khigt"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4670bd18f70c418ca30867be3def705c, type: 3}
+  m_Name: Level set 2
+  m_EditorClassIdentifier: 
+  _levels:
+  - Level: {fileID: 11400000, guid: ae9cff252de392a4bb3de38e33950384, type: 2}
+    WithWater: 0
+    SeedLansScape: 454
+    SeedPropBuild: 45387
+    PostionNeksus: {x: 37, y: 21}
+    AwardForLevel: 50
+  - Level: {fileID: 11400000, guid: ae9cff252de392a4bb3de38e33950384, type: 2}
+    WithWater: 0
+    SeedLansScape: 454
+    SeedPropBuild: 45387
+    PostionNeksus: {x: 37, y: 21}
+    AwardForLevel: 50
+  - Level: {fileID: 11400000, guid: ae9cff252de392a4bb3de38e33950384, type: 2}
+    WithWater: 0
+    SeedLansScape: 454
+    SeedPropBuild: 45387
+    PostionNeksus: {x: 37, y: 21}
+    AwardForLevel: 50
+  _dataMapSo: {fileID: 11400000, guid: 5eccff62c005b6044bd5a14ae6849d53, type: 2}
+  _id: Level set 2+dabb5c80-5dac-4b9c-9993-ad59efa82425
+  _priority: 1

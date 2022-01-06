@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a73cadadc38f496ab684eb4296d9f709, type: 3}
+  m_Name: Tropic
+  m_EditorClassIdentifier: 
+  _temperature: 0.506
+  _wet: 0.356
+  _vegetation: 0.234
+  _listDefaultBlock:
+    _defaultBricks:
+    - _type: 2
+      _bricktemplate: {fileID: 688157204869596451, guid: eaf9b922721cbe84bb86b8d866845e85,
+        type: 3}
+  _mainBrickBiome: {fileID: 688157204869596451, guid: 325b88b467642494a837ca80d0578251,
+    type: 3}
+  _props:
+  - _prop: {fileID: 2214514863416929411, guid: f1acdb0b405e2e54f82fbae73d4c91fd, type: 3}
+    _chance: 0.194
+  - _prop: {fileID: 2214514863416929411, guid: 2fe2d6007fa50834e81572d651d6b16d, type: 3}
+    _chance: 0.324
+  - _prop: {fileID: 2214514863416929411, guid: 46fac8eab66249d43b873685f5ab28ff, type: 3}
+    _chance: 0.254
+  - _prop: {fileID: 2214514863416929411, guid: 99f8c9982aa6b7f428438096a12c53c9, type: 3}
+    _chance: 0.342
+  - _prop: {fileID: 2214514863416929411, guid: 7e05327972379254daeb8ed94ff924c8, type: 3}
+    _chance: 0.274
+  - _prop: {fileID: 2214514863416929411, guid: 893a4f5fd7e4e9341801a3b31395277f, type: 3}
+    _chance: 0.109
+  - _prop: {fileID: 2214514863416929411, guid: 001b1e043a46ea94fb364f0089527dd1, type: 3}
+    _chance: 0.047
+  - _prop: {fileID: 2214514863416929411, guid: 9e699d17ed41b8d45b4799d9ccbcdd15, type: 3}
+    _chance: 0.032
+  - _prop: {fileID: 2214514863416929411, guid: 0af1092fae0259c4d87b85c124b152eb, type: 3}
+    _chance: 0.058
+  - _prop: {fileID: 2214514863416929411, guid: 613039df52d24dd479892e44acfd9d52, type: 3}
+    _chance: 0.024
+  - _prop: {fileID: 2214514863416929411, guid: 4e1e39c6f975f5a4abf7702cae68cee0, type: 3}
+    _chance: 0.024
+  - _prop: {fileID: 2214514863416929411, guid: d2a86e8bd7a5f88459897e474d5c7fdc, type: 3}
+    _chance: 0.064
+  - _prop: {fileID: 2214514863416929411, guid: 7d44cc52cb9f9b749a555384fad53937, type: 3}
+    _chance: 0.207
+  - _prop: {fileID: 2214514863416929411, guid: 57c4bd35ecd20d647a8371e9e9422d3d, type: 3}
+    _chance: 0.017
+  - _prop: {fileID: 2214514863416929411, guid: 2619fcbfc594c4f478d5e45fee0ad764, type: 3}
+    _chance: 0.014
+  - _prop: {fileID: 2214514863416929411, guid: bfaa4aff9bcab86428a1c10ecfd3045f, type: 3}
+    _chance: 0.136

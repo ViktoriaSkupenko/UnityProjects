@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ff9f700cd64b34954d0fbc9bcfdcaf, type: 3}
+  m_Name: AvatarKnigh1
+  m_EditorClassIdentifier: 
+  _mini: {fileID: -276865135857942692, guid: d34867f8d5e88dc468501bfa52e9e290, type: 3}
+  _big: {fileID: -7200635060467484838, guid: d34867f8d5e88dc468501bfa52e9e290, type: 3}

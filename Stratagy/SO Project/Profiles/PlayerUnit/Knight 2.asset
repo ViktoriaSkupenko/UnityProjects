@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46e21618998c4bfda4c853e5c05f0db2, type: 3}
+  m_Name: Knight 2
+  m_EditorClassIdentifier: 
+  _target: {fileID: 1892177545878729196, guid: 853db2b8a0982a3479e4f8fdceccbff5, type: 3}
+  _defaultData:
+    _isOpen: 0
+  _parts:
+  - {fileID: 11400000, guid: b8960b2d1cf7cdf4596a0181a0e591b2, type: 2}
+  - {fileID: 11400000, guid: 96a60687f3ff8154e9aa814f18326c01, type: 2}
+  - {fileID: 11400000, guid: a75f6ec41142fc94c8d0fb505ef12b81, type: 2}
+  - {fileID: 11400000, guid: c9084f5a6f450d9499265d181090dba0, type: 2}
+  _setDefault: 0

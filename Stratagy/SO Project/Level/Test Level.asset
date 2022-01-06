@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a346dc9b8dc744019680dafe38e6e4a1, type: 3}
+  m_Name: Test Level
+  m_EditorClassIdentifier: 
+  Neksus: {fileID: 5484088362762435250, guid: ae46f4994e15cc34e9387c06a3eb0975, type: 3}
+  Portal: {fileID: 2214514863416929411, guid: 5ebc05bd99ca0e9428381720b6f6c350, type: 3}
+  StartGold: 500
+  Waves:
+  - ElementWaves:
+    - Template: {fileID: 1519411402665394079, guid: ec71d3fbc1af2a944b04d7b21f698e7c,
+        type: 3}
+      Min: 3
+      Max: 6
+    Award: 80
+    CoolDownSpawn: 1
+    CountPortal: 1
+    MinDistanceToNeksus: 10
+    Boss:
+      Unit: {fileID: 0}
+      _chance: 0.379
+  - ElementWaves:
+    - Template: {fileID: 1519411402665394079, guid: ec71d3fbc1af2a944b04d7b21f698e7c,
+        type: 3}
+      Min: 2
+      Max: 4
+    - Template: {fileID: 6171567192275519567, guid: 4740fc7a0a2c6a7408a8d232e354af0f,
+        type: 3}
+      Min: 1
+      Max: 2
+    Award: 80
+    CoolDownSpawn: 5
+    CountPortal: 1
+    MinDistanceToNeksus: 10
+    Boss:
+      Unit: {fileID: 0}
+      _chance: 0.379
+  - ElementWaves:
+    - Template: {fileID: 6171567192275519567, guid: 4740fc7a0a2c6a7408a8d232e354af0f,
+        type: 3}
+      Min: 2
+      Max: 4
+    - Template: {fileID: 1519411402665394079, guid: ec71d3fbc1af2a944b04d7b21f698e7c,
+        type: 3}
+      Min: 1
+      Max: 2
+    Award: 80
+    CoolDownSpawn: 5
+    CountPortal: 1
+    MinDistanceToNeksus: 10
+    Boss:
+      Unit: {fileID: 0}
+      _chance: 0.379

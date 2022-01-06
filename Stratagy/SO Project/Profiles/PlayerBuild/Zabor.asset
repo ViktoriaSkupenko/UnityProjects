@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f680bb0d893f4a1daf3c3c1267be7ec3, type: 3}
+  m_Name: Zabor
+  m_EditorClassIdentifier: 
+  _target: {fileID: 2214514863416929411, guid: 24118a05629ee4040af43c5faf8b921f, type: 3}
+  _defaultData:
+    _isOpen: 1
+  _parts:
+  - {fileID: 11400000, guid: 21492293daef65b40b65f3f7b1c77885, type: 2}
+  - {fileID: 11400000, guid: eb0e5acf102ff1a46878e5b2c58e97b9, type: 2}
+  _setDefault: 0

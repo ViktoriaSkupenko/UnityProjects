@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a73cadadc38f496ab684eb4296d9f709, type: 3}
+  m_Name: Ground
+  m_EditorClassIdentifier: 
+  _temperature: 0.948
+  _wet: 0.897
+  _vegetation: 0.92
+  _listDefaultBlock:
+    _defaultBricks:
+    - _type: 2
+      _bricktemplate: {fileID: 688157204869596451, guid: eaf9b922721cbe84bb86b8d866845e85,
+        type: 3}
+  _mainBrickBiome: {fileID: 688157204869596451, guid: eaf9b922721cbe84bb86b8d866845e85,
+    type: 3}
+  _props:
+  - _prop: {fileID: 2214514863416929411, guid: 893a4f5fd7e4e9341801a3b31395277f, type: 3}
+    _chance: 0.192
+  - _prop: {fileID: 2214514863416929411, guid: 9e699d17ed41b8d45b4799d9ccbcdd15, type: 3}
+    _chance: 0.168
+  - _prop: {fileID: 2214514863416929411, guid: 613039df52d24dd479892e44acfd9d52, type: 3}
+    _chance: 0.222
+  - _prop: {fileID: 2214514863416929411, guid: 9b10b7228d0a9184e8e0db1d502a754e, type: 3}
+    _chance: 0.468
+  - _prop: {fileID: 2214514863416929411, guid: e7661b23a03a9af48992db058d3b6192, type: 3}
+    _chance: 0.31
+  - _prop: {fileID: 2214514863416929411, guid: fb6a9905c906d184eb9a880e84c70b7b, type: 3}
+    _chance: 0.118
+  - _prop: {fileID: 2214514863416929411, guid: 96424d5797d32d3498ea4d1712785785, type: 3}
+    _chance: 0.379
+  - _prop: {fileID: 2214514863416929411, guid: 8b91eb5956b206041a10fe8e17fb3a38, type: 3}
+    _chance: 0.014
+  - _prop: {fileID: 2214514863416929411, guid: bfaa4aff9bcab86428a1c10ecfd3045f, type: 3}
+    _chance: 0.111

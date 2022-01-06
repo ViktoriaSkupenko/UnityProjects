@@ -1,0 +1,28 @@
+{
+  "Id_Land": {
+    "AboutUs": {
+      "Lang_Text": {
+        "RU": "О Нас",
+        "ENG": "About us"
+      }
+    },
+    "ButtonBattle": {
+      "Lang_Text": {
+        "RU": "В БОЙ",
+        "ENG": "TO FIGHT"
+      }
+    },
+    "ButtonSetting": {
+      "Lang_Text": {
+        "RU": "Настройки",
+        "ENG": "Setting"
+      }
+    },
+    "ButtonEqip": {
+      "Lang_Text": {
+        "RU": "Снаряжение",
+        "ENG": "Snuryzenie"
+      }
+    }
+  }
+}
